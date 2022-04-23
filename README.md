@@ -24,11 +24,12 @@
 + [Machine Learning](https://coursera.org/share/ca85370fd2b28ac1d569bb6888aff857) -Coursera  
 + [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/07684c82a99127f6a529026961c1e1a7) - Coursera 
 
-**Contact**
+**Connect**
 * _LinkedIN - https://www.linkedin.com/in/shweta-chouhan12/_
-* _HackerRank - https://www.hackerrank.com/shwetachouhan_
 * _Mail - chouhanshweta1224@gmail.com_
 
+**Additional**
+* _HackerRank - https://www.hackerrank.com/shwetachouhan_
   
 <!---
 chouhan-shweta/chouhan-shweta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
