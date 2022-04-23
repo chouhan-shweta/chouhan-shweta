@@ -3,7 +3,7 @@
 
 **About Me**
 
-  Hey I am Shweta Chouhan, currently a final year student pursuing B. Tech. in Artificial Intelligence from Sage University, Indore. With an experience as a Machine Learning Engineer intern for 6 months and Course Developer Intern for a year.
+  Hey, I am Shweta Chouhan, currently a final year student pursuing B. Tech. in Artificial Intelligence from Sage University, Indore. With an experience as a Machine Learning Engineer intern for 6 months and Course Developer Intern for a year.
   
 **Skills**
 * Python
